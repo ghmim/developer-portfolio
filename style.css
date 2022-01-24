@@ -1,6 +1,5 @@
 body{
     font-family: 'Poppins', sans-serif;
-    padding-left: 75px;
 }
 h1{
     
@@ -15,8 +14,9 @@ section{
 }
 .half-width{
     width:50%;
+    padding-left: 5%;
 }
 
 .half-width img{
-    width:100%;
+    width:85%;
 }
